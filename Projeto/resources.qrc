@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>image/close.svg</file>
+        <file>image/closebox.svg</file>
+        <file>image/cutbox.svg</file>
+        <file>image/cutelipse.svg</file>
+        <file>image/cutsphere.svg</file>
+        <file>image/cutvoxel.svg</file>
+        <file>image/putbox.svg</file>
+        <file>image/putelipse.svg</file>
+        <file>image/putsphere.svg</file>
+        <file>image/putvoxel.svg</file>
+        <file>image/save.svg</file>
+        <file>image/savebox.svg</file>
+        <file>image/xy.svg</file>
+        <file>image/yz.svg</file>
+        <file>image/zx.svg</file>
+        <file>image/infobar.svg</file>
+        <file>image/information.svg</file>
+        <file>image/dim.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+release/main.o
+release/mainwindow.o
+release/plotter.o
+release/dialoginfo.o
+release/dialogmatriz.o
+release/plottermatriz.o
+release/sculptor.o
+release/dialogsalve.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_plotter.o
+release/moc_dialoginfo.o
+release/moc_dialogmatriz.o
+release/moc_plottermatriz.o
+release/moc_dialogsalve.o

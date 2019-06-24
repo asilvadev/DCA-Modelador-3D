@@ -1,0 +1,15 @@
+debug/main.o
+debug/mainwindow.o
+debug/plotter.o
+debug/dialoginfo.o
+debug/dialogmatriz.o
+debug/plottermatriz.o
+debug/sculptor.o
+debug/dialogsalve.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_plotter.o
+debug/moc_dialoginfo.o
+debug/moc_dialogmatriz.o
+debug/moc_plottermatriz.o
+debug/moc_dialogsalve.o
