@@ -1,4 +1,9 @@
 ![top](img/top.jpg)
+
+![Build](https://img.shields.io/badge/build-sucess-green)
+![GitHub](https://img.shields.io/github/license/asilvadev/DCA-Modelador-3D)
+![Qt](https://img.shields.io/badge/QT-%3E%3D%204.9.1-blue)
+![Git](https://img.shields.io/badge/Git-%3E%3D%202.0-blue)
 ## Programas necessários
 - QT Creator
 - Git 
